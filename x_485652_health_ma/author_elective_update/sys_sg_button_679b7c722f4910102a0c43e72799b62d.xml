@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button">
+    <sys_sg_button action="DELETE">
+        <acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label>
+        <allow_images_upload>false</allow_images_upload>
+        <auto_redirection>false</auto_redirection>
+        <button_table_field_name/>
+        <cancel_label/>
+        <condition/>
+        <condition_script/>
+        <condition_type>declarative</condition_type>
+        <confirm_label/>
+        <confirmation_message/>
+        <context>global</context>
+        <description/>
+        <destination_alp/>
+        <destination_screen display_value="Emergencies">314830322f4910102a0c43e72799b6ca</destination_screen>
+        <destination_type>screen</destination_type>
+        <external_browser>false</external_browser>
+        <failure_message/>
+        <field_name/>
+        <jump_to_previous>false</jump_to_previous>
+        <jump_to_screen>false</jump_to_screen>
+        <link_label/>
+        <link_url/>
+        <mail_address/>
+        <mail_content/>
+        <mail_subject/>
+        <name>Launcher Button</name>
+        <phone_number/>
+        <phone_type>cellular</phone_type>
+        <preconditions>none</preconditions>
+        <relative_url>true</relative_url>
+        <roles/>
+        <save_signature_before_action_execution>false</save_signature_before_action_execution>
+        <select_current_record>false</select_current_record>
+        <show_acknowledgement>false</show_acknowledgement>
+        <show_confirmation>false</show_confirmation>
+        <show_refresh_on_previous>false</show_refresh_on_previous>
+        <show_signature>false</show_signature>
+        <sms/>
+        <success_message/>
+        <sys_class_name>sys_sg_button</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 17:36:10</sys_created_on>
+        <sys_id>679b7c722f4910102a0c43e72799b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launcher Button</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_update_name>sys_sg_button_679b7c722f4910102a0c43e72799b62d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 17:36:10</sys_updated_on>
+        <table/>
+        <take_value_from_field>false</take_value_from_field>
+        <type>redirection</type>
+        <use_overlay>false</use_overlay>
+        <write_back_action_item/>
+    </sys_sg_button>
+    <sys_translated_text action="DELETE" query="documentkey=679b7c722f4910102a0c43e72799b62d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</application>
+        <file_path/>
+        <instance_id>d16b51afdbee401442b321c405961931</instance_id>
+        <instance_name>dev98437</instance_name>
+        <name>sys_sg_button_679b7c722f4910102a0c43e72799b62d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button"><sys_sg_button action="INSERT_OR_UPDATE"><acknowledgement_confirm_label>I Agree</acknowledgement_confirm_label><allow_images_upload>false</allow_images_upload><auto_redirection>false</auto_redirection><button_table_field_name/><cancel_label/><condition/><condition_script/><condition_type>declarative</condition_type><confirm_label/><confirmation_message/><context>global</context><description/><destination_alp/><destination_screen display_value="Emergencies">314830322f4910102a0c43e72799b6ca</destination_screen><destination_type>screen</destination_type><external_browser>false</external_browser><failure_message/><field_name/><jump_to_previous>false</jump_to_previous><jump_to_screen>false</jump_to_screen><link_label/><link_url/><mail_address/><mail_content/><mail_subject/><name>Launcher Button</name><phone_number/><phone_type>cellular</phone_type><preconditions>none</preconditions><relative_url>true</relative_url><roles/><save_signature_before_action_execution>false</save_signature_before_action_execution><select_current_record>false</select_current_record><show_acknowledgement>false</show_acknowledgement><show_confirmation>false</show_confirmation><show_refresh_on_previous>false</show_refresh_on_previous><show_signature>false</show_signature><sms/><success_message/><sys_class_name>sys_sg_button</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-31 17:36:10</sys_created_on><sys_id>679b7c722f4910102a0c43e72799b62d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Launcher Button</sys_name><sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package><sys_policy/><sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope><sys_update_name>sys_sg_button_679b7c722f4910102a0c43e72799b62d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-31 17:36:10</sys_updated_on><table/><take_value_from_field>false</take_value_from_field><type>redirection</type><use_overlay>false</use_overlay><write_back_action_item/></sys_sg_button><sys_translated_text action="delete_multiple" query="documentkey=679b7c722f4910102a0c43e72799b62d"/></record_update>]]></payload>
+        <payload_hash>-1362328398</payload_hash>
+        <record_name>Launcher Button</record_name>
+        <reverted_from/>
+        <source>4eb3b03e2f0910102a0c43e72799b6ff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 17:36:10</sys_created_on>
+        <sys_id>ef9b7c722f4910102a0c43e72799b62f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1726bce22800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 17:36:10</sys_updated_on>
+        <type>Function</type>
+        <update_guid>2b9b7c72b0491010c55582d4a90bc52f</update_guid>
+        <update_guid_history>2b9b7c72b0491010c55582d4a90bc52f:-1362328398</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 17:37:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button">sys_sg_button</sys_db_object>
+        <sys_id>3b10b762e5674a7ea322ce062c2965a4</sys_id>
+        <sys_metadata>679b7c722f4910102a0c43e72799b62d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Launcher Button</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_scope_delete display_value="">578500aff6474fa4a3b9af9f8c421a90</sys_scope_delete>
+        <sys_update_name>sys_sg_button_679b7c722f4910102a0c43e72799b62d</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_679b7c722f4910102a0c43e72799b62d">ef9b7c722f4910102a0c43e72799b62f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 17:37:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

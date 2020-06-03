@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="city" table="x_485652_health_ma_emergency" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bangalore</label>
+            <language>en</language>
+            <name>x_485652_health_ma_emergency</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 17:17:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c57f4fe2f0910102a0c43e72799b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 17:17:25</sys_updated_on>
+            <value>bangalore</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chennai</label>
+            <language>en</language>
+            <name>x_485652_health_ma_emergency</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 17:17:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7457f4fe2f0910102a0c43e72799b68d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 17:17:25</sys_updated_on>
+            <value>chennai</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gurgaon</label>
+            <language>en</language>
+            <name>x_485652_health_ma_emergency</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 17:17:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7857f4fe2f0910102a0c43e72799b691</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 17:17:25</sys_updated_on>
+            <value>gurgaon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trivandrum</label>
+            <language>en</language>
+            <name>x_485652_health_ma_emergency</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 17:17:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f457f4fe2f0910102a0c43e72799b68f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 17:17:25</sys_updated_on>
+            <value>trivandrum</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <name>x_485652_health_ma_emergency</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-31 17:17:25</sys_created_on>
+            <sys_id>7c57f4fe2f0910102a0c43e72799b68b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>city</sys_name>
+            <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+            <sys_update_name>sys_choice_x_485652_health_ma_emergency_city</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-31 17:17:25</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

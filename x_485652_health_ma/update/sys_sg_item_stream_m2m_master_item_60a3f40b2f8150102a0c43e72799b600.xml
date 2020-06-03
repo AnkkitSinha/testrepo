@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approved Emergency Requests Item Stream">e8a3f00b2f8150102a0c43e72799b6f2</item_stream>
+        <master_item display_value="Approved Emergency Requests Master Item">64a3b40b2f8150102a0c43e72799b6f8</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 11:39:46</sys_created_on>
+        <sys_id>60a3f40b2f8150102a0c43e72799b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_60a3f40b2f8150102a0c43e72799b600</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 11:39:46</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

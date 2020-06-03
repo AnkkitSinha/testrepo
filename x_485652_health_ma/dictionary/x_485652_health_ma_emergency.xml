@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Emergency" max_length="40" name="x_485652_health_ma_emergency" sizeclass="4" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="City" max_length="40" name="city" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bangalore" value="bangalore"/>
+                <element inactive_on_update="false" label="Chennai" value="chennai"/>
+                <element inactive_on_update="false" label="Gurgaon" value="gurgaon"/>
+                <element inactive_on_update="false" label="Trivandrum" value="trivandrum"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Country" max_length="32" name="country" reference="core_country" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Detailed Description " max_length="200" name="detailed_description" type="string"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Office" max_length="40" name="office" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="EY, Bagmane World Technology" value="ey_bagmane_world_technology"/>
+                <element inactive_on_update="false" label="EY, DLF" value="ey_dlf"/>
+                <element inactive_on_update="false" label="EY, RMZ Infinity" value="ey_rmz_infinity"/>
+                <element inactive_on_update="false" label="EY, TVM" value="ey_tvm"/>
+                <element inactive_on_update="false" label="EY, Whitefield" value="ey_whitefield"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason" max_length="40" name="reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="E-Pass" value="e_pass"/>
+                <element inactive_on_update="false" label="Emergency Assistance" value="emergency_assistance"/>
+                <element inactive_on_update="false" label="Excused Absence" value="excused_absence"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requester Name" max_length="32" name="requester_name" reference="sys_user" type="reference"/>
+        <element default="1" label="State" max_length="40" name="state" type="integer"/>
+        <index name="index">
+            <element name="country"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="requester_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Smart Button">c3c9340f2f8150102a0c43e72799b64c</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="icon-Mail-Solid">3989c5472fc150102a0c43e72799b61b</icon>
+        <label>Text Support</label>
+        <location>quick_action</location>
+        <name>Text Support</name>
+        <order/>
+        <parent>31483cfa2f0910102a0c43e72799b69a</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 13:15:26</sys_created_on>
+        <sys_id>3d89c5472fc150102a0c43e72799b61e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Text Support</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3d89c5472fc150102a0c43e72799b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 13:15:26</sys_updated_on>
+        <table>sys_sg_applet_launcher</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d89c5472fc150102a0c43e72799b61e"/>
+</record_update>

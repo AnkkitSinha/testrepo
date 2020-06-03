@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>To ensure employees safety in office. Helps you raise e-pass, Talk to respective department heads for Emergency.</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Edit">7d483cfa2f0910102a0c43e72799b698</icon>
+        <item_view display_value="Emergency List Screen Item View">714830322f4910102a0c43e72799b6c8</item_view>
+        <name>My Emergency Requests</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 17:21:34</sys_created_on>
+        <sys_id>b54830322f4910102a0c43e72799b6cb</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>My Emergency Requests</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_update_name>sys_sg_form_screen_b54830322f4910102a0c43e72799b6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 11:03:34</sys_updated_on>
+        <table>x_485652_health_ma_emergency</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=b54830322f4910102a0c43e72799b6cb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</application>
+        <file_path/>
+        <instance_id>d16b51afdbee401442b321c405961931</instance_id>
+        <instance_name>dev98437</instance_name>
+        <name>sys_sg_form_screen_b54830322f4910102a0c43e72799b6cb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><data_item/><description>To ensure employees safety in office. Helps you raise e-pass, Talk to respective department heads for Emergency.</description><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Edit">7d483cfa2f0910102a0c43e72799b698</icon><item_view display_value="Emergency List Screen Item View">714830322f4910102a0c43e72799b6c8</item_view><name>My Emergency Requests</name><roles_override/><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-31 17:21:34</sys_created_on><sys_id>b54830322f4910102a0c43e72799b6cb</sys_id><sys_mod_count>10</sys_mod_count><sys_name>My Emergency Requests</sys_name><sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package><sys_policy/><sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope><sys_update_name>sys_sg_form_screen_b54830322f4910102a0c43e72799b6cb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-01 11:03:34</sys_updated_on><table>x_485652_health_ma_emergency</table></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=b54830322f4910102a0c43e72799b6cb"/></record_update>]]></payload>
+        <payload_hash>355859588</payload_hash>
+        <record_name>My Emergency Requests</record_name>
+        <reverted_from/>
+        <source>4eb3b03e2f0910102a0c43e72799b6ff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 11:03:34</sys_created_on>
+        <sys_id>5e5b28c32f8150102a0c43e72799b6a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1726f8d0dbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 11:03:34</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>d65b28c38f815010f89edf73ee666ba3</update_guid>
+        <update_guid_history>d65b28c38f815010f89edf73ee666ba3:355859588,d79cb0f29d49101011aacde9b80ceffe:1508139322,6a487032c2491010c932f2cc8f922ea8:-1482871130</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 12:08:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>62659f1f2b344fd0b16ede999d95aaa4</sys_id>
+        <sys_metadata>b54830322f4910102a0c43e72799b6cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Emergency Requests</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_scope_delete display_value="">578500aff6474fa4a3b9af9f8c421a90</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_b54830322f4910102a0c43e72799b6cb</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_b54830322f4910102a0c43e72799b6cb">5e5b28c32f8150102a0c43e72799b6a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 12:08:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

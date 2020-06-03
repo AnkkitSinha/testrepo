@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="DELETE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 18:12:01</sys_created_on>
+        <sys_id>44c381f62f4910102a0c43e72799b643</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hello,</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_44c381f62f4910102a0c43e72799b643</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 18:15:52</sys_updated_on>
+        <text>Hello,</text>
+        <variables>ab2cba4687103300a785940307cb0b28</variables>
+    </sys_sg_applet_launcher_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</application>
+        <file_path/>
+        <instance_id>d16b51afdbee401442b321c405961931</instance_id>
+        <instance_name>dev98437</instance_name>
+        <name>sys_sg_applet_launcher_header_44c381f62f4910102a0c43e72799b643</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header"><sys_sg_applet_launcher_header action="INSERT_OR_UPDATE"><sys_class_name>sys_sg_applet_launcher_header</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-31 18:12:01</sys_created_on><sys_id>44c381f62f4910102a0c43e72799b643</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Hello,</sys_name><sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package><sys_policy/><sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope><sys_update_name>sys_sg_applet_launcher_header_44c381f62f4910102a0c43e72799b643</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-31 18:15:52</sys_updated_on><text>Hello,</text><variables>ab2cba4687103300a785940307cb0b28</variables></sys_sg_applet_launcher_header></record_update>]]></payload>
+        <payload_hash>649583826</payload_hash>
+        <record_name>Hello,</record_name>
+        <reverted_from/>
+        <source>4eb3b03e2f0910102a0c43e72799b6ff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-31 18:15:52</sys_created_on>
+        <sys_id>85b48d3a2f4910102a0c43e72799b6d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1726bf278450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-31 18:15:52</sys_updated_on>
+        <type>Header Title</type>
+        <update_guid>01b48d3ab74910105b4b1f29fcc155d7</update_guid>
+        <update_guid_history>01b48d3ab74910105b4b1f29fcc155d7:649583826,20d3813a0949101019178d907c4a4bcc:869618322</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-01 11:00:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_header">sys_sg_applet_launcher_header</sys_db_object>
+        <sys_id>b5c6e07135da41208b44f339ee7df844</sys_id>
+        <sys_metadata>44c381f62f4910102a0c43e72799b643</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello,</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_scope_delete display_value="">578500aff6474fa4a3b9af9f8c421a90</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_header_44c381f62f4910102a0c43e72799b643</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_header_44c381f62f4910102a0c43e72799b643">85b48d3a2f4910102a0c43e72799b6d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-01 11:00:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

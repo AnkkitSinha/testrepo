@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>city</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>State</name>
+        <order>10</order>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="My Emergency Requests">314830322f4910102a0c43e72799b6ca</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 08:50:47</sys_created_on>
+        <sys_id>0f865d172f4d50102a0c43e72799b61e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>State</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_0f865d172f4d50102a0c43e72799b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 08:51:00</sys_updated_on>
+        <table_name>x_485652_health_ma_emergency</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=0f865d172f4d50102a0c43e72799b61e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</application>
+        <file_path/>
+        <instance_id>d16b51afdbee401442b321c405961931</instance_id>
+        <instance_name>dev98437</instance_name>
+        <name>sys_sg_ui_parameter_0f865d172f4d50102a0c43e72799b61e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button/><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>city</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>false</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>State</name><order>10</order><parameter_type>screen</parameter_type><placeholder/><screen display_value="My Emergency Requests">314830322f4910102a0c43e72799b6ca</screen><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 08:50:47</sys_created_on><sys_id>0f865d172f4d50102a0c43e72799b61e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>State</sys_name><sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package><sys_policy/><sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope><sys_update_name>sys_sg_ui_parameter_0f865d172f4d50102a0c43e72799b61e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 08:51:00</sys_updated_on><table_name>x_485652_health_ma_emergency</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=0f865d172f4d50102a0c43e72799b61e"/></record_update>]]></payload>
+        <payload_hash>769726717</payload_hash>
+        <record_name>State</record_name>
+        <reverted_from/>
+        <source>4eb3b03e2f0910102a0c43e72799b6ff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 08:51:00</sys_created_on>
+        <sys_id>5696d1572f4d50102a0c43e72799b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172743a0c360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 08:51:00</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>de96d157234d5010ff56703b567caf96</update_guid>
+        <update_guid_history>de96d157234d5010ff56703b567caf96:769726717,cf86d157204d5010f006737972c16802:-1514159133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 08:52:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>0bc5b38c10db4220bfdb11498c06e090</sys_id>
+        <sys_metadata>0f865d172f4d50102a0c43e72799b61e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State</sys_name>
+        <sys_package display_value="Health Mate" source="x_485652_health_ma">cab3b03e2f0910102a0c43e72799b6fd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Health Mate">cab3b03e2f0910102a0c43e72799b6fd</sys_scope>
+        <sys_scope_delete display_value="">578500aff6474fa4a3b9af9f8c421a90</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_0f865d172f4d50102a0c43e72799b61e</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_0f865d172f4d50102a0c43e72799b61e">5696d1572f4d50102a0c43e72799b697</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 08:52:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
